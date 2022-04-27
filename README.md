@@ -52,6 +52,7 @@ To start the Jekyll local development server.
 ```
 bundle exec jekyll serve
 ``` 
+> If the server call fails with the error ```/Users/krtonga/.rbenv/versions/3.0.0/lib/ruby/gems/3.0.0/gems/jekyll-4.2.2/lib/jekyll/commands/serve/servlet.rb:3:in `require': cannot load such file -- webrick (LoadError)```, then try the command `bundle add webrick`.
 
 To build the theme.
  
