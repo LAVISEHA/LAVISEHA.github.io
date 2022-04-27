@@ -63,7 +63,7 @@ models:
         hidden: true
   services:
     type: page
-    label: Services
+    label: Posts
     file: services.md
     singleInstance: true
     fields:
@@ -128,7 +128,7 @@ models:
             value: contact
   service:
     type: page
-    label: Service
+    label: Post
     folder: _services
     match: "*"
     fields:
