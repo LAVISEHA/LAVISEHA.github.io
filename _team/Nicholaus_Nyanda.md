@@ -5,6 +5,7 @@ draft: false
 image: "images/tmp-cam--13281222921.jpg"
 jobtitle: "GIS STAFF"
 linkedinurl: "https://www.linkedin.com/in/nicholaus-lughali-086a151b1?originalSubdomain=tz"
+promoted: true
 weight: 1
 layout: team
 ---
