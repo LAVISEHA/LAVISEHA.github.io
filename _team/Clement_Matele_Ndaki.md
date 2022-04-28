@@ -5,6 +5,7 @@ draft: false
 image: "images/team/person_icon.png"
 jobtitle: "PROJECT MANAGER"
 linkedinurl: ""
+promoted: true
 weight: 1
 layout: team
 ---
