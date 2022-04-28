@@ -5,6 +5,7 @@ draft: false
 image: "images/team/person_icon.png"
 jobtitle: "Executive Secretary"
 linkedinurl: ""
+promoted: true
 weight: 1
 layout: team
 ---
