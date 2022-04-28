@@ -1,16 +1,16 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Environment Protection",
+    "description": "improves the livelihood of the community in groups by building capacity through conservation agriculture techniques as a means of raising communities’ income while conserving the environment by tree planting..",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/IMG_8251.JPG",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Gender Equity",
+    "description": "Addresses gender equity issues within communities by educating community members, rescuing and supporting at-risk children, girls and women through Open Data Kit tool. ",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "HIV/AIDS Prevention",
+    "description": "Provides knowledgeable skills on how to fight the spread of HIV/AIDS infection to the society through sensitizing groups of youth and adults in community..",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
