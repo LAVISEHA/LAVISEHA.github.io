@@ -5,6 +5,7 @@ draft: false
 image: "images/team/person_icon.png"
 jobtitle: "CHAIRPERSON"
 linkedinurl: ""
+promoted: true
 weight: 2
 layout: team
 ---
