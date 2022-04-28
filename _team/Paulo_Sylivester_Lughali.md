@@ -2,7 +2,7 @@
 title: "PAULO SYLIVESTER LUGHALI"
 date: 2015-02-19T10:47:58+10:00
 draft: false
-image: "images/PICTURE_OF_TEAMMATE.jpg"
+image: "images/team/person_icon.png"
 jobtitle: "Executive Secretary"
 linkedinurl: ""
 weight: 1
