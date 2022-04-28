@@ -1,7 +1,7 @@
 ---
-title: Jekyll Serif Theme
+title: LAVISEHA
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Lake Victoria Shore Environmental HIV/AIDS Project Tanzania
 intro_image: "images/IMG_20210902_131254_959.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
