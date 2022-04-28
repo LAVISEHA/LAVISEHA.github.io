@@ -4,7 +4,6 @@ date: 2021-03-14T10:47:58+10:00
 draft: false
 image: "images/PICTURE_OF_TEAMMATE.jpg"
 jobtitle: "MEDIA STAFF"
-linkedinurl: ""
 promoted: true
 weight: 1
 layout: team
