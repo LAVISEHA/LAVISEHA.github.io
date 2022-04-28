@@ -2,7 +2,7 @@
 title: "BRIGHTON SYLIVESTER BULULA"
 date: 2021-03-14T10:47:58+10:00
 draft: false
-image: "images/PICTURE_OF_TEAMMATE.jpg"
+image: "team/person_icon.png"
 jobtitle: "MEDIA STAFF"
 promoted: true
 weight: 1
