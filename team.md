@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Our team is formed by the Chairperson, the Executive Secretary, the Project Manager, the Finance Controller, the Media Staff, the GIS Staff and the Field Staff.
